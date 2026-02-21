@@ -45,4 +45,4 @@ bqplot
 
 
 # Added dependencies
-poincare>1.0.0b2
+poincare>=1.0.0b2
