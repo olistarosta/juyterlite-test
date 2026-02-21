@@ -42,3 +42,7 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+
+# Added dependencies
+poincare>1.0.0b2
